@@ -1,0 +1,1 @@
+MAIN-CLASS: io.hexlet.One
